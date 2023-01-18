@@ -21,4 +21,5 @@ PostgreSQL JDBC Driver
 # Requirement
 
 Java 8 is minimum required java version since client controller layer includes some operations using Java Stream API
-![UDPChat](https://user-images.githubusercontent.com/113839940/213135167-2248478d-9bcb-421d-9725-211a5c89a1be.PNG)
+
+![UDP_Chat_Multiple_Client](https://user-images.githubusercontent.com/113839940/213135418-fe4d1d26-4028-4f7a-8bde-d50edc6c8984.JPG)
