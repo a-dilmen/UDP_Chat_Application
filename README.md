@@ -1,4 +1,11 @@
+# Proje_2_UDP_Chat 
+Design with respect to to host action as server client at the same time one listening to port 5000 the other listening port 5001 and return responces vice versa. Created according to the minimum requirements that are as follows 
+  -Make a chat applicaiion that uses UDP protocol
+  -Allow two Users to communicate each other from two different PC's
+  -Incoming messages needs to inlude time recieved stamp in "HH:mm:ss" format
+
 # UDP_Chat_Application
+Improved version of the Proje_2 regarding below description
 
 #App Description
 
